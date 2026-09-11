@@ -108,6 +108,25 @@
       }
     },
     {
+      "bundleId": "crown.2.0.608ee074",
+      "name": "原神2.0",
+      "summary": "更新了枪战和大世界按键切换",
+      "author": "枫",
+      "game": "原神",
+      "tags": [
+        "原神"
+      ],
+      "updatedAt": "2026-08-29T01:27:36Z",
+      "url": "../profiles/crown-profile/2.0-608ee074.crown.json",
+      "layoutBasis": {
+        "widthPx": 1220,
+        "heightPx": 2712,
+        "densityDpi": 520,
+        "density": 3.25,
+        "orientation": "portrait"
+      }
+    },
+    {
       "bundleId": "crown.crown-profile.0bc71a71",
       "name": "通用",
       "summary": "由于作者是用k50做的，别的设备可能会有点大小边界的问题。几乎完美利用手机串流的黑边作为功能区，解决了黑边既没用又突兀的感觉。\n功能介绍：边界分为上下左右4块区域，左上角可移动左键，右上角可移动右键，左下角方向键，右下角移动鼠标。点击串流简化信息（有个隐形手柄）",
