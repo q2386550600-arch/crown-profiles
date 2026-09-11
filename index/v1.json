@@ -161,6 +161,23 @@
       }
     },
     {
+      "bundleId": "crown.crown-profile.d20c7108",
+      "name": "我的世界通用版",
+      "summary": "",
+      "author": "qmy666999",
+      "game": "我的世界",
+      "tags": [],
+      "updatedAt": "2026-08-24T15:35:20Z",
+      "url": "../profiles/crown-profile/crown-profile-d20c7108.crown.json",
+      "layoutBasis": {
+        "widthPx": 1080,
+        "heightPx": 2400,
+        "densityDpi": 420,
+        "density": 2.625,
+        "orientation": "portrait"
+      }
+    },
+    {
       "bundleId": "crown.desktop-daily-duo.6c4dfd13",
       "name": "desktop-daily-duo",
       "summary": "自用，日常非游戏应用，键盘输入和基础快捷操作。利用了21:9串流笔记本16:10的空隙。",
